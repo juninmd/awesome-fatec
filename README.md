@@ -39,8 +39,11 @@
 - <https://github.com/juninmd/lost-fatec>
 - <https://github.com/juninmd/lost-fatec-api>
 - <https://github.com/juninmd/inicial-node-fatec>
-- <https://github.com/juninmd/fatec-ionic-lojinha>
 - <https://github.com/juninmd/fatec-node-lojinha>
+
+## Ionic
+
+- <https://github.com/juninmd/fatec-ionic-lojinha>
 
 ## L.E.S
 
@@ -58,3 +61,12 @@
 ## Interfatecs
 
 - <https://github.com/juninmd/treinamento-interfatecs>
+
+## REACT + Node
+- <https://github.com/juninmd/fatec-my-mind-api>
+
+- <https://github.com/juninmd/fatec-my-mind-web>
+
+## Angular
+
+- <https://github.com/juninmd/Calculadora>

@@ -1,5 +1,7 @@
 # awesome-fatec
 
+[![CI](https://github.com/juninmd/awesome-fatec/actions/workflows/ci.yml/badge.svg)](https://github.com/juninmd/awesome-fatec/actions/workflows/ci.yml)
+
 > Lista de projetos feitos na Fatec Franca
 
 ## C

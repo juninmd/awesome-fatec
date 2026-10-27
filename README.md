@@ -82,7 +82,7 @@ Observação: a branch padrão é `master`, então o `ci.yml` (que escuta `main`
 
 ## L.E.S
 
-- <https://github.com/juninmd/trabalholes/tree/master/LES_17_I_N>
+- <https://github.com/juninmd/fatec-trabalholes/tree/master/LES_17_I_N>
 - <https://github.com/juninmd/fatec-gerador-tabela-trabalho-les>
 
 ## Dados

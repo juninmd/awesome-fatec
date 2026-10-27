@@ -49,12 +49,12 @@ Mantenha a estrutura organizada por linguagem/tecnologia:
 2. **Java** - Projetos em Java
 3. **A.G.I** - Apresentacoes e geradores
 4. **Scripts** - Scripts utilitarios
-5. **Estatistica** - Projetos de estatistica
-6. **Programacao WEB** - Projetos web (Node.js, etc.)
+5. **Estatística** - Projetos de estatística
+6. **Programação WEB** - Projetos web (Node.js, etc.)
 7. **Ionic** - Aplicativos mobile com Ionic
 8. **L.E.S** - Engenharia de Software
 9. **Dados** - Projetos de dados
-10. **Utilitarios** - Ferramentas utilitarias
+10. **Utilitários** - Ferramentas utilitárias
 11. **Interfatecs** - Treinamento para Interfatecs
 12. **REACT + Node** - Projetos com React e Node.js
 13. **Angular** - Projetos com Angular
